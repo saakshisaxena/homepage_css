@@ -1,0 +1,59 @@
+body{
+  background-color: skyblue;
+  background-image: url('cloud.jpg');
+  background-repeat:round;
+  padding: 10%;
+  padding-right: 30%;
+
+
+}
+
+header, footer{
+ color: white;
+}
+
+a{
+  color: pink;
+  font-size: 18pt;
+  font-style: italic;
+
+}
+
+#topnav{
+  background-color:rgba(10, 10, 76, 0.3)  ;
+}
+
+section{
+  background-color: white;
+  color:skyblue;
+  border-color: darkblue;
+  border: 2px solid DodgerBlue;
+  border-style:inset;
+  border-width: medium;
+
+}
+
+h1{
+  font-size: 24pt;
+}
+
+h3{
+  font-size: 19pt;
+}
+
+.marginadd{
+
+  margin-left: 10px;
+
+
+}
+
+#last{
+    background-color:rgba(10, 10, 76, 0.3)  ;
+}
+
+img {
+  opacity: 98%;
+  border-radius: 50%;
+
+}
